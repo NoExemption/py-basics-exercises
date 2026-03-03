@@ -34,7 +34,7 @@ pip install pyserial
 1. **克隆仓库**
 
    ```bash
-   git clone https://github.com/你的用户名/py_basics_exercises.git
+   git clone https://github.com/NoExemption/py_basics_exercises.git
    ```
 
 2. **运行脚本**
